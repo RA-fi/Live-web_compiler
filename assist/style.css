@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+.topbar{
+    font-size:30px;
+    padding:10px 0 0 0;
+    font-family: 'Comfortaa', cursive;
+}
+#htmlcode,#csscode,#phpcode,#jscode{
+    height:30vh;
+    width:100%;
+    font-family: 'Play', sans-serif;
+    margin:10px 0 10px 0;
+    padding:5px;
+
+}
+.preview-area iframe{
+    width:100%;
+    height:100%;
+}
